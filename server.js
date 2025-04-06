@@ -1,5 +1,0 @@
-//alpha-betically arrange names beginning A-F to return "Masta"
-//F-J return "Kuja"
-//K-Q return "Son"
-//R-V return "ZA"
-//W-Z return "God" 
